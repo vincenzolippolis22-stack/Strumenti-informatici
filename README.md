@@ -1,2 +1,2 @@
 # Strumenti-informatici
-La repository contiene il codice e la sua descrizione. Il tutto necessità di avere Jupyter notebook come compilatore.
+La repository contiene codice Python e la relativa documentazione; l'interfaccia consigliata per lavorarci è JupyterLab.
