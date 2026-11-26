@@ -1,2 +1,2 @@
 # Strumenti-informatici
-La repository contiene il codice Python e la relativa documentazione; l'interfaccia consigliata per lavorarci è Jupyter Notebook.
+La repository contiene il notebook con il codice scritto in Python suddiviso in celle, ciascuna avente prima una cella di markdown per spiegarne il contenuto; l'interfaccia consigliata per lavorarci è Jupyter Notebook.
